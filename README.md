@@ -15,3 +15,4 @@ iv.) A plot of closing price versus 200 days moving average is displayed to indi
 v.)  A plot of closing price versus 100 days moving average versus 200 days moving average is displayed to indicate whether the stock is experiencing an uptrend or downtrend.
 vi.) The predicted price of the stock for the next day.
 vii.) The model is trained on the previous 20 years of stock data to ensure high level of accuracy that is achievable.
+
